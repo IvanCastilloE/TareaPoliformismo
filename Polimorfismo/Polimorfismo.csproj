@@ -47,6 +47,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rectangulo.cs" />
+    <Compile Include="Rombo.cs" />
+    <Compile Include="Trapecio.cs" />
     <Compile Include="Triangulo.cs" />
   </ItemGroup>
   <ItemGroup>
